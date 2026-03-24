@@ -1,1 +1,2 @@
 My first type of rice.txt
+My second update of rice.txt and try to see the upload version.
